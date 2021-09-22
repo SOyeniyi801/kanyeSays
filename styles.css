@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+}
+
+.heading{
+    margin-top: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+div{
+    width: 60%;
+    height: 40%;
+    margin:0 auto
+    ;
+}
+
+.button{
+    margin-top: 10px;
+}
+
+.right-quote{
+    border-radius: 50%;
+    background-color: rgb(27, 114, 189);
+    margin-left: 80%;
+    height: 40px;
+    width: 40px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.fa-quote-right {
+    color:white
+
+}
+
+.left-quote{
+    border-radius: 50%;
+    background-color: rgb(27, 114, 189);
+    margin-right: 80%;
+    height: 40px;
+    width: 40px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.fa-quote-left {
+    color:white
+    
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
