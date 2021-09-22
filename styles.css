@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    background-color: rgb(173, 204, 231)
 }
 
 .heading{
@@ -10,15 +11,37 @@ body{
 
 }
 
+img{
+    height: 120px;
+    width: 120px;
+}
+h2{
+    font-family: 'Gravitas One', cursive;
+}
+
+
 div{
     width: 60%;
     height: 40%;
     margin:0 auto
     ;
 }
+.quoteBox{
+    background-color: rgb(238, 238, 228);
+    border-radius: 20%;
+    padding-top: 10%;
+}
+.quote{
+    font-family: 'Gravitas One', cursive;
+}
 
-.button{
+button{
     margin-top: 10px;
+    height: 70px;
+    width: 120px;
+    font-family: 'Gravitas One', cursive;
+    background-color: rgb(27, 114, 189);
+    color: rgb(238, 238, 228);
 }
 
 .right-quote{
@@ -33,7 +56,7 @@ div{
 }
 
 .fa-quote-right {
-    color:white
+    color:white;
 
 }
 
@@ -53,8 +76,4 @@ div{
     
 }
 
-img{
-    height: 100px;
-    width: 100px;
-}
 
